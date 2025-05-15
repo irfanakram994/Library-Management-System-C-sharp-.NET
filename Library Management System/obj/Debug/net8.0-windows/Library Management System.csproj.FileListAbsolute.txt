@@ -1,0 +1,47 @@
+C:\Users\Ultron\source\repos\Library Management System\Library Management System\bin\Debug\net8.0-windows\Library Management System.exe
+C:\Users\Ultron\source\repos\Library Management System\Library Management System\bin\Debug\net8.0-windows\Library Management System.dll
+C:\Users\Ultron\source\repos\Library Management System\Library Management System\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Ultron\source\repos\Library Management System\Library Management System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Ultron\source\repos\Library Management System\Library Management System\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Ultron\source\repos\Library Management System\Library Management System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Ultron\source\repos\Library Management System\Library Management System\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Ultron\source\repos\Library Management System\Library Management System\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Ultron\source\repos\Library Management System\Library Management System\obj\Debug\net8.0-windows\Library Management System.csproj.AssemblyReference.cache
+C:\Users\Ultron\source\repos\Library Management System\Library Management System\obj\Debug\net8.0-windows\Dashboard.g.cs
+C:\Users\Ultron\source\repos\Library Management System\Library Management System\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Ultron\source\repos\Library Management System\Library Management System\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Ultron\source\repos\Library Management System\Library Management System\obj\Debug\net8.0-windows\Library Management System_MarkupCompile.cache
+C:\Users\Ultron\source\repos\Library Management System\Library Management System\obj\Debug\net8.0-windows\Library Management System_MarkupCompile.lref
+C:\Users\Ultron\source\repos\Library Management System\Library Management System\obj\Debug\net8.0-windows\Dashboard.baml
+C:\Users\Ultron\source\repos\Library Management System\Library Management System\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Ultron\source\repos\Library Management System\Library Management System\obj\Debug\net8.0-windows\Library Management System.g.resources
+C:\Users\Ultron\source\repos\Library Management System\Library Management System\obj\Debug\net8.0-windows\Library Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ultron\source\repos\Library Management System\Library Management System\obj\Debug\net8.0-windows\Library Management System.AssemblyInfoInputs.cache
+C:\Users\Ultron\source\repos\Library Management System\Library Management System\obj\Debug\net8.0-windows\Library Management System.AssemblyInfo.cs
+C:\Users\Ultron\source\repos\Library Management System\Library Management System\obj\Debug\net8.0-windows\Library Management System.csproj.CoreCompileInputs.cache
+C:\Users\Ultron\source\repos\Library Management System\Library Management System\obj\Debug\net8.0-windows\Library .F7D87690.Up2Date
+C:\Users\Ultron\source\repos\Library Management System\Library Management System\obj\Debug\net8.0-windows\Library Management System.dll
+C:\Users\Ultron\source\repos\Library Management System\Library Management System\obj\Debug\net8.0-windows\refint\Library Management System.dll
+C:\Users\Ultron\source\repos\Library Management System\Library Management System\obj\Debug\net8.0-windows\Library Management System.pdb
+C:\Users\Ultron\source\repos\Library Management System\Library Management System\bin\Debug\net8.0-windows\Library Management System.deps.json
+C:\Users\Ultron\source\repos\Library Management System\Library Management System\bin\Debug\net8.0-windows\Library Management System.runtimeconfig.json
+C:\Users\Ultron\source\repos\Library Management System\Library Management System\bin\Debug\net8.0-windows\Library Management System.pdb
+C:\Users\Ultron\source\repos\Library Management System\Library Management System\obj\Debug\net8.0-windows\Library Management System.genruntimeconfig.cache
+C:\Users\Ultron\source\repos\Library Management System\Library Management System\obj\Debug\net8.0-windows\ref\Library Management System.dll
+C:\Users\Ultron\source\repos\Library Management System\Library Management System\obj\Debug\net8.0-windows\addbooks.g.cs
+C:\Users\Ultron\source\repos\Library Management System\Library Management System\obj\Debug\net8.0-windows\AddStudents.g.cs
+C:\Users\Ultron\source\repos\Library Management System\Library Management System\obj\Debug\net8.0-windows\IssueBook.g.cs
+C:\Users\Ultron\source\repos\Library Management System\Library Management System\obj\Debug\net8.0-windows\IssueBookReports.g.cs
+C:\Users\Ultron\source\repos\Library Management System\Library Management System\obj\Debug\net8.0-windows\ReturnBook.g.cs
+C:\Users\Ultron\source\repos\Library Management System\Library Management System\obj\Debug\net8.0-windows\ReturnBookReport.g.cs
+C:\Users\Ultron\source\repos\Library Management System\Library Management System\obj\Debug\net8.0-windows\ViewBooks.g.cs
+C:\Users\Ultron\source\repos\Library Management System\Library Management System\obj\Debug\net8.0-windows\ViewStudents.g.cs
+C:\Users\Ultron\source\repos\Library Management System\Library Management System\obj\Debug\net8.0-windows\addbooks.baml
+C:\Users\Ultron\source\repos\Library Management System\Library Management System\obj\Debug\net8.0-windows\AddStudents.baml
+C:\Users\Ultron\source\repos\Library Management System\Library Management System\obj\Debug\net8.0-windows\IssueBook.baml
+C:\Users\Ultron\source\repos\Library Management System\Library Management System\obj\Debug\net8.0-windows\IssueBookReports.baml
+C:\Users\Ultron\source\repos\Library Management System\Library Management System\obj\Debug\net8.0-windows\ReturnBook.baml
+C:\Users\Ultron\source\repos\Library Management System\Library Management System\obj\Debug\net8.0-windows\ReturnBookReport.baml
+C:\Users\Ultron\source\repos\Library Management System\Library Management System\obj\Debug\net8.0-windows\ViewBooks.baml
+C:\Users\Ultron\source\repos\Library Management System\Library Management System\obj\Debug\net8.0-windows\ViewStudents.baml
+C:\Users\Ultron\source\repos\Library Management System\Library Management System\bin\Debug\net8.0-windows\LiveCharts.dll

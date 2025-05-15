@@ -1,0 +1,55 @@
+﻿<Window x:Class="Library_Management_System.Dashboard"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Library_Management_System"
+        mc:Ignorable="d"
+        Title="Dashboard" 
+        WindowState="Maximized"
+        WindowStartupLocation="CenterScreen"
+        Background="White">
+
+    <Grid>
+        <!-- Background Image -->
+        <Image Source="/dash.jpg" Stretch="Fill" Opacity="0.25" Panel.ZIndex="0"/>
+
+        <!-- Main content overlay -->
+        <Grid Panel.ZIndex="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+
+            <!-- Title Label -->
+            <TextBlock Text="Welcome To Library Management System"
+                       FontFamily="Segoe UI Black"
+                       FontSize="52"
+                       FontWeight="Bold"
+                       Foreground="#FF2F2CB7"
+                       HorizontalAlignment="Center"
+                       Margin="0,30,0,20"
+                       Grid.Row="0"/>
+
+            <!-- Centered Buttons inside a Border -->
+            <Border Grid.Row="1"
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Center"
+                    Background="#CCFFFFFF"
+                    Padding="30"
+                    CornerRadius="20"
+                    >
+                <StackPanel Width="400">
+                    <Button Content="Add Books" Background="#FF48EEEE" FontFamily="Cambria" FontSize="24" FontWeight="Bold" Height="60" Margin="0,10" Click="Button_Click"/>
+                    <Button Content="View Books" Background="#FFB2DFDF" FontFamily="Cambria" FontSize="24" FontWeight="Bold" Height="60" Margin="0,10" Click="Button_Click_1"/>
+                    <Button Content="Add Students" Background="#FF48EEEE" FontFamily="Cambria" FontSize="24" FontWeight="Bold" Height="60" Margin="0,10" Click="Button_Click_2"/>
+                    <Button Content="View Students" Background="#FFC2E3E3" FontFamily="Cambria" FontSize="24" FontWeight="Bold" Height="60" Margin="0,10" Click="Button_Click_3"/>
+                    <Button Content="Return Book" Background="#FF47F6F6" FontFamily="Cambria" FontSize="24" FontWeight="Bold" Height="60" Margin="0,10" Click="Button_Click_5"/>
+                    <Button Content="Issue Book" Background="#FFBAE1E1" FontFamily="Cambria" FontSize="24" FontWeight="Bold" Height="60" Margin="0,10" Click="Button_Click_4"/>
+                    <Button Content="Issue Book Reports" Background="#FF43EFEF" FontFamily="Cambria" FontSize="24" FontWeight="Bold" Height="60" Margin="0,10" Click="Button_Click_6"/>
+                    <Button Content="Return Book Reports" Background="#FFBCDEDE" FontFamily="Cambria" FontSize="24" FontWeight="Bold" Height="60" Margin="0,10" Click="Button_Click_7"/>
+                </StackPanel>
+            </Border>
+        </Grid>
+    </Grid>
+</Window>

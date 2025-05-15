@@ -1,0 +1,35 @@
+﻿<Window x:Class="Library_Management_System.ViewStudents"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="View Students" Height="450" Width="800"
+        WindowStartupLocation="CenterScreen" Background="#F0F4F8">
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="Student Details" 
+                   FontFamily="Cambria" 
+                   FontWeight="Bold" 
+                   FontSize="28" 
+                   Foreground="#BC6F6F" 
+                   HorizontalAlignment="Center" 
+                   Margin="0,10"/>
+
+        <DataGrid x:Name="StudentsDataGrid" 
+                  Grid.Row="1" 
+                  AutoGenerateColumns="True" 
+                  Margin="0,10" 
+                  FontFamily="Cambria" 
+                  FontSize="14" 
+                  AlternatingRowBackground="#F7F7F7" 
+                  HeadersVisibility="Column" 
+                  VerticalAlignment="Stretch" 
+                  HorizontalAlignment="Stretch" 
+                  Background="White" />
+    </Grid>
+</Window>

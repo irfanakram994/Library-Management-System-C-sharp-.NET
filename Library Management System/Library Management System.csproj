@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>Library_Management_System</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="dash.jpg" />
+    <None Remove="lab.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="LiveCharts.Core" Version="0.9.8" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.9.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="dash.jpg" />
+    <Resource Include="lab.jpg" />
+  </ItemGroup>
+
+</Project>
